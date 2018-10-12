@@ -4,7 +4,7 @@ awesome hacktoberfest
 Off course Hacktober is a month where we as a community pull our power together and contribute as best as we can. But sometimes you just need a little push. I hope this list gives you that extra push to push that extra view PR's to github to make this Hacktober even greater then the past one.
 
 # Contents
-- [Hacktober 2018](#Hacktober-2018)
+- [Hacktober 2018](#hacktober-2018)
 
 ## Hacktober 2018
 - [aras](http://community.aras.com/fr/join-aras-labs-hacktoberfest-2018/)
